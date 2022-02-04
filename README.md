@@ -2,7 +2,7 @@
 It checks if domain is present as website or available for hosting.
 
 Tools used:
-1. Pycharm Community Edition
+1. Pycharm Community Edition 2021.3.1
 
 Languages used:
 1. Python v2.7.13
